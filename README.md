@@ -33,25 +33,29 @@ Follow these steps to install this extension manually in Chrome.
 
 Open Google Chrome and go to:
 
-```text```
+```text
 chrome://extensions/
 
 ### Step 2: Enable Developer Mode
 
-    ```On the Extensions page, turn on Developer mode.
+    ```text
+    On the Extensions page, turn on Developer mode.
 
-    You will usually find this option in the top-right corner.```
+    You will usually find this option in the top-right corner.
 
 ### Step 3: Click Load Unpacked
 
-    ```After enabling Developer mode, click the Load unpacked button.```
+    ```text
+    After enabling Developer mode, click the Load unpacked button.
 
 ### Step 4: Select Extension Folder
 
-    ```Select the folder where this extension code exists.```
+    ```text
+    Select the folder where this extension code exists.
 
 ### Step 5: Extension Installed
 
-    ```After selecting the folder, Chrome will install the extension.
+    ```text
+    After selecting the folder, Chrome will install the extension.
 
     You should now see YouTube Shorts Blocker in your Chrome extensions list.```
