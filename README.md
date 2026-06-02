@@ -21,7 +21,7 @@ This extension uses two approaches:
 
    If a user opens a YouTube Shorts URL like:
 
-   ```text
+   ```text```
    https://www.youtube.com/shorts/VIDEO_ID
 
 ## Install Extension in Chrome
@@ -33,29 +33,29 @@ Follow these steps to install this extension manually in Chrome.
 
 Open Google Chrome and go to:
 
-```text
+```text```
 chrome://extensions/
 
 ### Step 2: Enable Developer Mode
 
-    ```text
+    ```text```
     On the Extensions page, turn on Developer mode.
 
     You will usually find this option in the top-right corner.
 
 ### Step 3: Click Load Unpacked
 
-    ```text
+    ```text```
     After enabling Developer mode, click the Load unpacked button.
 
 ### Step 4: Select Extension Folder
 
-    ```text
+    ```text```
     Select the folder where this extension code exists.
 
 ### Step 5: Extension Installed
 
-    ```text
+    ```text```
     After selecting the folder, Chrome will install the extension.
 
     You should now see YouTube Shorts Blocker in your Chrome extensions list.```
